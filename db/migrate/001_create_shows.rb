@@ -2,7 +2,10 @@
 
 def change 
   create_table :shows do |t|
-    string.t :name 
+    t.string :name 
+    t.string :network 
+    t.string :day 
+    t.integer :rating
   end
   
 end
