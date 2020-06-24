@@ -2,7 +2,7 @@
 
 def change 
   create_table :shows do |t|
-    string.t name 
-    
+    string.t :name 
+  end
   
 end
