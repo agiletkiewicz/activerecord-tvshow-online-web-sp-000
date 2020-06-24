@@ -1,3 +1,6 @@
 
 
-CREATE TABLE shows 
+def change 
+  
+  
+end
